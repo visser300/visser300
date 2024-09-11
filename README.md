@@ -11,16 +11,12 @@
 	src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 <hr>
-• 💪🏻 I'm a Web3, and AI Enthusiast.<br>
+• 💪🏻 I'm a Web3 and AI Enthusiast.<br>
 • 👨‍💻 I'm a senior full-stack Developer from United States.<br>
 • ✨ I have 14+ years of tech experience in Frontend, Backend, Mobile and Blockchain Application Development.<br>
 • 🚀 I leverage cutting-edge tech like prompt engineering, Cursor, and customized LLMs to enhance my development skills daily.<br>
 • 📫 Reach me via Whatsapp +1(928-686-5468)!<br>
 <hr>
-
-<h2 align="center">:label: Github Stats</h2>
-
-<a href="https://gitroll.io/profile/uLfTHQ426idPKEBt4rSpjXMrcrSF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLfTHQ426idPKEBt4rSpjXMrcrSF3" alt="GitRoll Profile Badge"/></a>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
  
@@ -50,6 +46,6 @@
 | <img src="https://img.shields.io/badge/-HTML/CSS/Javascript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-React/Next.js-0D1117?style=flat-square&logo=react&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Tailwind CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=F0DB4F"> |
 | <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-fastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=F0DB4F"> |
 | <img src="https://img.shields.io/badge/-SQLModel-0D1117?style=flat-square&logo=sqlmodel&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Docker Compose-0D1117?style=flat-square&logo=dockercompose&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-CI/CD Actions-0D1117?style=flat-square&logo=githubactions&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-EVM-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-API Development-0D1117?style=flat-square&logo=api&logoColor=F0DB4F"> |
+| <img src="https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-EVM-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-API Development-0D1117?style=flat-square&logo=api&logoColor=F0DB4F">
 | <img src="https://img.shields.io/badge/-Frontend Development-0D1117?style=flat-square&logo=frontend&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Backend Development-0D1117?style=flat-square&logo=backend&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Full Stack Development-0D1117?style=flat-square&logo=fullstack&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Blockchain Development-0D1117?style=flat-square&logo=blockchain&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-AI Development-0D1117?style=flat-square&logo=ai&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Prompt Engineering-0D1117?style=flat-square&logo=promptengineering&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Content Creator-0D1117?style=flat-square&logo=contentcreator&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Project Management-0D1117?style=flat-square&logo=projectmanagement&logoColor=F0DB4F"> | <br>
+<img src="https://img.shields.io/badge/-Prompt Engineering-0D1117?style=flat-square&logo=promptengineering&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Content Creator-0D1117?style=flat-square&logo=contentcreator&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Project Management-0D1117?style=flat-square&logo=projectmanagement&logoColor=F0DB4F"> | <br>
